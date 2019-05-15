@@ -1,0 +1,31 @@
+@font-face {
+    font-family: iranSans;
+    src: url(irsans.ttf);
+}
+
+@font-face {
+    font-family: duel;
+    src: url(duelRegular.ttf);
+}
+
+@font-face {
+    font-family: 'SDF';
+    src: url('IRANSans-web.woff') format('woff');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'SDF';
+    src: url('IRANSans-Bold-web.woff') format('woff');
+    font-weight: bold;
+}
+
+/*
+* {
+    font-family: iranSans !important;
+}
+*/
+
+/*
+* {
+    font-family: duel !important;
+}*/
